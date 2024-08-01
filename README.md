@@ -9,7 +9,7 @@
 
 ---
 
-##### Conponents Introduction
+##### Components Introduction
 ![DATA](EX2.png)
 
 
