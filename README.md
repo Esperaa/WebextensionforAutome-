@@ -1,25 +1,25 @@
 
-### How to use?
+### 使用步骤
 
 
-- Step1
+- 步骤1
   
 ![Step1](S11.png)
 
-- Step2
+- 步骤2
 
 ![Step2](S2.png)
   
-- Step3
+- 步骤3
 
 
 ![Step3](S3.png)
 
-- Step4
+- 步骤4
 
 ![Step4](S4.png)
 
-- Step5
+- 步骤5
 
 
 ![Step5](S5.png)
@@ -41,7 +41,7 @@
 
 ---
 
-##### Components Introduction
+##### 装置组成介绍
 ![DATA](EX2.png)
 
 ---
