@@ -12,16 +12,6 @@
 ##### Components Introduction
 ![DATA](EX2.png)
 
-##### Component list:
--
-
-
-
-
-
-
-
-
 ---
 ##### Feedbacks
 Want to tell me something about the product?/ Want to have one?
