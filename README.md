@@ -6,30 +6,32 @@
   
 ![Step1](S11.png)
 
-
-
-
-
-
-
-
-
-
-
-
 - Step2
+
+![Step2](S2.png)
+  
 - Step3
+
+
+![Step3](S3.png)
+
 - Step4
 
-
-
-
-
-
-
-
+![Step4](S4.png)
 
 - Step5
+
+
+![Step5](S5.png)
+
+
+
+
+
+
+
+
+
 
 
 
