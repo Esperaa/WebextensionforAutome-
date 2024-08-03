@@ -12,6 +12,8 @@
 ##### Components Introduction
 ![DATA](EX2.png)
 
+##### Component list:
+-
 
 
 
